@@ -1,4 +1,5 @@
 # Create ikHandle from selected joints
+# Copy past the code into the python maya script editor for this to work!
 
 def create_con(ikh, end_jnt):
     # creates nurbs circle control
