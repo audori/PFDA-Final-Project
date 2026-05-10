@@ -1,3 +1,14 @@
+# Stretchy IK Arms
+
+## Demo
+Demo Video: <URL>
+
+## GitHub Repository
+GitHub Repo: <https://github.com/audori/PFDA-Final-Project.git>
+
+## Description
+
+
 Because I'm doing my code mainly in MAYA I'll be copy pasting and commiting my code on VSCode so it appears here.
 
 Link to information I used for maya exclusive python commands:
